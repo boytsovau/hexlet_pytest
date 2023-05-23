@@ -1,1 +1,1 @@
-https://github.com/boytsovau/hexlet_pytest/actions/workflows/main.yml/badge.svg
+![example workflow](https://github.com/boytsovau/hexlet_pytest/actions/workflows/main.yml/badge.svg)
